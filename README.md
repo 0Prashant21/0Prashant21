@@ -14,15 +14,25 @@ You can click the Preview link to take a look at your changes.
 [![An image of @0prashant21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/0prashant21)](https://holopin.io/@0prashant21)
 --->
 
+<br clear="both">
+
+<h1 align="center">hey there 👋 Prashant Yadav</h1>
+
+###
+
 <div align="center">
-  <img height="" src="https://camo.githubusercontent.com/730090fed961936ad97b76ba6ce60e9d1d41c5876b2a6b762393f0b8838f0bf4/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f343634393436342f736b61747465722d70726f6772616d6d65725f7374696c6c5f32782e6769663f636f6d70726573733d3126726573697a653d34303078333030"  />
+  <img height="500" src="https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg?t=st=1708333209~exp=1708336809~hmac=22546ce310bbc9e6521ce469944eeb0226ec83c0eb44028f75086199d4924290&w=1380"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/prashant-yadav-170892202/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRpdTbGwbcJnjcqLNNjsnKGPxFGBTstwhfpbmmGJGfBMpFZLCCddCxDlzSHmwmRdBTFnsCq" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
 </div>
 
@@ -34,15 +44,11 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Web Developer from ....<br><br>- 🔭 I’m working as Fu<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm a Developer from ....<br><br>- 🔭 I’m working on Full Stack Development<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time watch Anime, Games.</p>
 
 ###
 
@@ -93,18 +99,10 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<img src="https://raw.githubusercontent.com/0Prashant21/0Prashant21/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left"></p>
 
 ###
+<h3 align="left">👀   Hacktober Fest 2024 :</h3>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31c5hy732rt5bqqpfevfjc33orjy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31c5hy732rt5bqqpfevfjc33orjy&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
+[![An image of @0prashant21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/0prashant21)](https://holopin.io/@0prashant21)
 ###
