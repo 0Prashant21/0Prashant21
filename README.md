@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <div align="center">
-  <img height="500" src="https://playground.com/post/pixar-character-style-skinny-man-with-a-2cm-fade-short-hair-clwtglurw02q1pso990j6t29m"  />
+  <img height="500" src="https://images.playground.com/d6b70b1f165d4bac85ff7c9d698343df.jpeg"  />
 </div>
 
 ###
