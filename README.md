@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <div align="center">
-  <img height="500" src="https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg?t=st=1708333209~exp=1708336809~hmac=22546ce310bbc9e6521ce469944eeb0226ec83c0eb44028f75086199d4924290&w=1380"  />
+  <img height="500" src="https://playground.com/post/pixar-character-style-skinny-man-with-a-2cm-fade-short-hair-clwtglurw02q1pso990j6t29m"  />
 </div>
 
 ###
