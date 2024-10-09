@@ -108,3 +108,12 @@ You can click the Preview link to take a look at your changes.
 
 [![An image of @0prashant21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/0prashant21)](https://holopin.io/@0prashant21)
 ###
+
+<h3 align="left">👀   Hacktober Fest 2024 :</h3>
+<div>
+  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" width="20%" height="20%" style="margin-right">
+  <img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-tumbler-0-0-0.webp" width="20%" height="20%">
+  <img src="https://assets.holopin.io/hf2024levels/level2-sloth-hello-tumbler-hoodie-0-0.webp" width="20%" height="20%">
+</div>
+
+###
